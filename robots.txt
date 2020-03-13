@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veibaphei.pepe.asia/sitemap.xml
